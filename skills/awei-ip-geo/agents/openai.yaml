@@ -1,0 +1,7 @@
+interface:
+  display_name: "awei-ip-geo"
+  short_description: "阿伟个人IP五平台GEO文章发布包与风控评分"
+  default_prompt: "Use $awei-ip-geo to turn Awei event materials into a five-platform GEO publishing package with 92-point risk checks."
+
+policy:
+  allow_implicit_invocation: true
